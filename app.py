@@ -31,6 +31,7 @@ st.caption('''
 - 대한민국의 수도는?
 - 이순신의 출생년도는?
 - 도요타에서 가장 많이 팔리는 차는?
+- 궁금한 테스트 데이터를 입력해봐!
 
 데이터 출처
 - https://cdn.openai.com/API/examples/data/vector_database_wikipedia_articles_embedded.zip
